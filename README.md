@@ -1,1 +1,1 @@
-Kevin AI OPC landing page, static site served by GitHub Pages
+Kevin · AI 应用实验室 landing page
